@@ -1,0 +1,19 @@
+git init
+git remote add origin https://github.com/LaxminarayanJena/Java.git
+git status
+git add .
+
+git commit -m "core java"
+
+----------generate key----------------
+
+(in gitbash)    $ ssh-keygen -t rsa
+
+key generated in C:\Users\Poltu\.ssh\id_rsa
+upload the key in github settings
+
+git config --global user.email "lnarayan.jena@gmail.com"
+git config --global user.name "Laxminarayan Jena"
+
+----------------------------push code--------------------
+git push -u origin master
