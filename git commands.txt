@@ -17,3 +17,8 @@ git config --global user.name "Laxminarayan Jena"
 
 ----------------------------push code--------------------
 git push -u origin master
+
+
+---------------------**********-----------pull code----------------------*********---
+
+git clone https://github.com/LaxminarayanJena/AppiumPOMframework
