@@ -25,3 +25,16 @@ git clone https://github.com/LaxminarayanJena/AppiumPOMframework
 
 
 git pull origin master
+
+-------------------**********-----------Branching And Merging----------------------*********---
+
+
+git branch 1stbranch
+git checkout 1stbranch
+git checkout master
+git merge 1stbranch
+git push -u origin master
+
+git branch -d 1stbranch    — delete from local
+git push origin --delete 1stbranch
+
