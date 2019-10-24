@@ -1,4 +1,4 @@
-git init
+﻿git init
 git remote add origin https://github.com/LaxminarayanJena/Java.git
 git status
 git add .
@@ -39,6 +39,9 @@ git branch -d 1stbranch    — delete from local
 git push origin --delete 1stbranch
 ------------------------------
 
+1st developer-------
+
+
 git checkout -b jena
 git branch
 git status
@@ -46,4 +49,12 @@ git add .
 git commit -m"Git Commands"
 git push -u origin jena
 
+2nd developer-------------
+
+git pull origin jena
+git checkout jena
+git status
+git add .
+git commit -m"Git Commands added by 2nd dev"
+git push -u origin jena
 
