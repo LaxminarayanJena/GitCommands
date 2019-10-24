@@ -47,3 +47,8 @@ git add .
 git commit -m"Git Commands added by 2nd dev"
 git push -u origin jena
 
+
+---------------------Merging from branch to master---------------------------------------
+git checkout master
+git pull origin master
+git merge jena
