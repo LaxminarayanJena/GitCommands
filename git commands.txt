@@ -28,18 +28,7 @@ git pull origin master
 
 -------------------**********-----------Branching And Merging----------------------*********---
 
-
-git branch 1stbranch
-git checkout 1stbranch
-git checkout master
-git merge 1stbranch
-git push -u origin master
-
-git branch -d 1stbranch    — delete from local
-git push origin --delete 1stbranch
-------------------------------
-
-1st developer-------
+--------------1st developer-------
 
 
 git checkout -b jena
@@ -49,7 +38,7 @@ git add .
 git commit -m"Git Commands"
 git push -u origin jena
 
-2nd developer-------------
+-----------------2nd developer-------------
 
 git pull origin jena
 git checkout jena
