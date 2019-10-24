@@ -52,3 +52,4 @@ git push -u origin jena
 git checkout master
 git pull origin master
 git merge jena
+git push -u origin master
