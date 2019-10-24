@@ -40,5 +40,10 @@ git push origin --delete 1stbranch
 ------------------------------
 
 git checkout -b jena
-Git branch
+git branch
+git status
+git add .
+git commit -m"Git Commands"
+git push -u origin jena
+
 
