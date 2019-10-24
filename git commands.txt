@@ -37,5 +37,8 @@ git push -u origin master
 
 git branch -d 1stbranch    — delete from local
 git push origin --delete 1stbranch
----------------
+------------------------------
+
+git checkout -b jena
+Git branch
 
