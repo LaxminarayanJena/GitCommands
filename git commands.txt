@@ -1,4 +1,4 @@
-﻿git init
+git init
 git remote add origin https://github.com/LaxminarayanJena/Java.git
 git status
 git add .
@@ -53,3 +53,5 @@ git checkout master
 git pull origin master
 git merge jena
 git push -u origin master
+
+-----------------merge conflict------------
