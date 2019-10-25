@@ -53,5 +53,3 @@ git checkout master
 git pull origin master
 git merge jena
 git push -u origin master
-
------------------merge conflict------------
