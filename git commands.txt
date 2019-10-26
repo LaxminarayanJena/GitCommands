@@ -58,4 +58,7 @@ git push -u origin master
 1
 
 -------display all branch-------
-Git branch
+git branch
+
+-----delete specific branch------
+git push origin --delete jena1
