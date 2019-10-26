@@ -56,3 +56,6 @@ git push -u origin master
 
 -----------------merge conflict------------
 1
+
+-------display all branch-------
+Git branch
