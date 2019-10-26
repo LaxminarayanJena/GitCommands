@@ -56,7 +56,7 @@ git push -u origin master
 
 -----------------merge conflict------------
 
-2
+git diff
 
 
 -------display all branch-------
@@ -65,5 +65,7 @@ git branch
 -----delete specific branch------
 git push origin --delete jena1
 
---------
+--------revert change-----
+git log
+git revert 4820f51695220b0f6af51d7fb0c0ce31648f1f85
 
