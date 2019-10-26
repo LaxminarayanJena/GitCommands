@@ -55,10 +55,15 @@ git merge jena
 git push -u origin master
 
 -----------------merge conflict------------
-1
+
+2
+
 
 -------display all branch-------
 git branch
 
 -----delete specific branch------
 git push origin --delete jena1
+
+--------
+
