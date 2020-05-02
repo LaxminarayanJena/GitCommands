@@ -1,3 +1,14 @@
+MERGING from master to branch
+
+2)git branch
+3)git checkout Jena/qta-2440
+3)git  fetch origin
+4)do changes
+5)git add .
+6)git commit -m “my changes”
+7)git push origin Jena/QTA-2440
+
+--------------------------------------
 git init
 git remote add origin https://github.com/LaxminarayanJena/Java.git
 git status
