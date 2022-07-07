@@ -23,6 +23,8 @@ git commit -m "core java"
 key generated in C:\Users\Poltu\.ssh\id_rsa
 upload the key in github settings
 
+https://github.com/settings/tokens
+
 git config --global user.email "lnarayan.jena@gmail.com"
 git config --global user.name "Laxminarayan Jena"
 
